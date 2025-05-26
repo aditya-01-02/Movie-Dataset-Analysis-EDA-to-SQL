@@ -22,11 +22,11 @@ The main goal of this project is to perform a comprehensive analysis of the TMDB
 
 🧪 Tools & Technologies
 
-    **Python 3.x**
-    **Pandas / NumPy** – Data manipulation
-    **Matplotlib / Seaborn** – Data visualization
-    **SQLite / sqlite3** – SQL database and querying
-    **Jupyter Notebook** – Interactive exploration
+    Python 3.x
+    Pandas / NumPy – Data manipulation
+    Matplotlib / Seaborn – Data visualization
+    SQLite / sqlite3 – SQL database and querying
+    Jupyter Notebook – Interactive exploration
 
 📊 Key Analysis Performed
 
