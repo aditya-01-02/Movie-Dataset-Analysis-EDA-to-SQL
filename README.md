@@ -39,7 +39,7 @@ The main goal of this project is to perform a comprehensive analysis of the TMDB
 
 🔹 In `eda_to_sql_queries.ipynb`:
 
-    * SQL queries replicating EDA logic:
+    SQL queries replicating EDA logic:
     
       * Top 10 highest-grossing movies
       * Most popular genres by average rating
